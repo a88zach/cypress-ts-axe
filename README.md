@@ -1,2 +1,1 @@
-# cypress-ts-axe
-Example of using axe with cypress
+# Example of using axe with cypress
